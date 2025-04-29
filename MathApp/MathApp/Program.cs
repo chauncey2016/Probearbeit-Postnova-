@@ -26,8 +26,8 @@ class Program
             double average = CalculateAverage(yValues);
             double standardDeviation = CalculateStandardDeviation(yValues, average);
 
-            Console.WriteLine($"Mean of the Y values: {average:F16}");
-            Console.WriteLine($"Standard deviation of the Y values: {standardDeviation:F16}");
+            Console.WriteLine($"Mean of the Y values: {average:F15}");
+            Console.WriteLine($"Standard deviation of the Y values: {standardDeviation:F15}");
             Console.WriteLine();
 
             // C. Compute first and second derivatives
