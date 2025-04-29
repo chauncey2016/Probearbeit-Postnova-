@@ -17,6 +17,8 @@ A, 	Welche WPF Design Pattern kennen Sie? Bitte beschreiben Sie alle Ihnen bekan
     
     MVVM (Model-View-ViewModel): Das am häufigsten verwendete Pattern, das zum Trennen der Schnittstelle (View), der Geschäftslogik (ViewModel) und des Datenmodells (Model) verwendet wird, um die Wartbarkeit und Testbarkeit zu verbessern. Die Entkopplung von Ansichten und Logik wird durch Datenbindung und Befehle erreicht.
 
+    Dependency Injection/Inversion of Control: Wird oft mit MVVM kombiniert, verwaltet ViewModel- und Serviceabhängigkeiten über einen IoC-Container, wodurch Testbarkeit und Modularität verbessert werden.
+
     Command Pattern: Durch die Implementierung der ICommand-Schnittstelle werden Benutzeroperationen (wie z. B. Schaltflächenklicks) in Befehlsobjekte gekapselt, wodurch UI-Ereignisse von der Geschäftslogik getrennt werden. Es wird häufig mit MVVM verwendet.
 
     Observer Pattern: Implementieren Sie Benachrichtigungen über Datenänderungen über die Schnittstellen INotifyPropertyChanged und INotifyCollectionChanged, sodass die Benutzeroberfläche automatisch auf Datenaktualisierungen reagieren kann.
