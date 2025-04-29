@@ -15,7 +15,7 @@ C,	Aus den x und y Werten die erste 1. und 2. Derivative berechnen kann.
 ##  2, Bereich WPF Kenntnisse: 
 A, 	Welche WPF Design Pattern kennen Sie? Bitte beschreiben Sie alle Ihnen bekannten Patten in zwei bis drei Sätzen.
     
-    MVVM (Model-View-ViewModel): Das am häufigsten verwendete Pattern, das zum Trennen der Schnittstelle (View), der Geschäftslogik (ViewModel) und des Datenmodells (Model) verwendet wird, um die Wartbarkeit und Testbarkeit zu verbessern. Die Entkopplung von Ansichten und Logik wird durch Datenbindung und Befehle erreicht.
+    MVVM (Model-View-ViewModel): Trennt die UI-Logik von der Geschäftslogik durch Datenbindung und Befehle. ViewModel fungiert als Vermittler zwischen View und Model, unterstützt bidirektionale Datenbindung und Unit-Tests und ist das kern und am häufigsten verwendete Patten in WPF.
 
     Dependency Injection/Inversion of Control: Wird oft mit MVVM kombiniert, verwaltet ViewModel- und Serviceabhängigkeiten über einen IoC-Container, wodurch Testbarkeit und Modularität verbessert werden.
 
