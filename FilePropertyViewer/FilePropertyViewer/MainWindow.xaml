@@ -1,0 +1,43 @@
+﻿<Window x:Class="FilePropertyViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FilePropertyViewer"
+        mc:Ignorable="d"
+        Title="File Property Viewer" Height="600" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Directory Path:" Margin="0,0,0,5"/>
+
+        <Grid Grid.Row="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox Grid.Column="0" Text="{Binding DirectoryPath, UpdateSourceTrigger=PropertyChanged}" 
+                     VerticalContentAlignment="Center" Margin="0,0,5,0"/>
+            <Button Grid.Column="1" Content="Load Files" Command="{Binding LoadCommand}" 
+                    Padding="10,2" MinWidth="80"/>
+        </Grid>
+
+        <ListView Grid.Row="2" ItemsSource="{Binding Files}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="120"/>
+                    <GridViewColumn Header="Type" DisplayMemberBinding="{Binding FileType}" Width="60"/>
+                    <GridViewColumn Header="Size" DisplayMemberBinding="{Binding SizeFormatted}" Width="80"/>
+                    <GridViewColumn Header="Created" DisplayMemberBinding="{Binding CreationTime}" Width="120"/>
+                    <GridViewColumn Header="Modified" DisplayMemberBinding="{Binding LastWriteTime}" Width="120"/>
+                    <GridViewColumn Header="Hash (SHA256)" DisplayMemberBinding="{Binding Hash}" Width="250"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

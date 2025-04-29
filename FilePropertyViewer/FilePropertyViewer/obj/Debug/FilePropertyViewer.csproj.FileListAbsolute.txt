@@ -1,0 +1,15 @@
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\bin\Debug\FilePropertyViewer.exe.config
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\bin\Debug\FilePropertyViewer.exe
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\bin\Debug\FilePropertyViewer.pdb
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.csproj.AssemblyReference.cache
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\App.g.cs
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer_MarkupCompile.cache
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer_MarkupCompile.lref
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\MainWindow.baml
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.g.resources
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.Properties.Resources.resources
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.csproj.GenerateResource.cache
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.csproj.CoreCompileInputs.cache
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.exe
+C:\Users\Qiang Chang\source\repos\FilePropertyViewer\FilePropertyViewer\obj\Debug\FilePropertyViewer.pdb

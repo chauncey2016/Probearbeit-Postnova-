@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|c:\\users\\qiang chang\\source\\repos\\filepropertyviewer\\filepropertyviewer\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D7DBE3-8C82-4E77-915D-C7817B05DA22}|FilePropertyViewer\\FilePropertyViewer.csproj|solutionrelative:filepropertyviewer\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "FilePropertyViewer\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:24:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "FilePropertyViewer\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:18:28.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\Services\\FileService.cs",
+              "RelativeToolTip": "FilePropertyViewer\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:02.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\Models\\FileModel.cs",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\Models\\FileModel.cs",
+              "RelativeToolTip": "FilePropertyViewer\\Models\\FileModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:21.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\MainWindow.xaml",
+              "RelativeToolTip": "FilePropertyViewer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T08:42:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FilePropertyViewer\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:42:57.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "FilePropertyViewer\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Qiang Chang\\source\\repos\\FilePropertyViewer\\FilePropertyViewer\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "FilePropertyViewer\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:25:10.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
